@@ -14,3 +14,10 @@ This is a bash script that display current directory contents in a long format
 
 Description of script : 4-listmorefiles :
 This is a bash script that display current directory contents, including hidden files (starting with .). Use the long format.
+
+Description of script : 5-listfilesdigitonly :
+This is a bash script that display current directory contents:
+-Long format
+-with user and group IDs displayed numerically
+-And hidden files (starting with .)
+
